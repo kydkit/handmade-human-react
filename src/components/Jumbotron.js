@@ -31,7 +31,7 @@ const Jumbotron = () => {
 
   return (
     <div className={styles.jumbo}>
-      <div className={styles.textContainer}>
+      <div className="tl">
         <h1 className={styles.hide}>
           <span className={styles.span} ref={el => {handmadeFade = el}}>Handmade</span>
         </h1>

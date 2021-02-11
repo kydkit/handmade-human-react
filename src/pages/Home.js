@@ -3,7 +3,7 @@ import Project from '../components/Projects'
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="home tc">
       <Jumbotron />
       <Project />
     </div>

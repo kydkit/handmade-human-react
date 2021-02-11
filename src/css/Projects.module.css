@@ -1,20 +1,14 @@
-.projectCard {
-  /* background: rgb(153, 153, 242); */
-  width: 90%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 20px auto;
+.cardContainer {
+  display: inline-block;
+  text-align: center;
+  margin: 2rem;
 }
 
 .imageContainer {
   background: white;
-  width: 100%;
   min-width: 330px;
-  max-width: 400px;
+  max-width: 350px;
   height: 350px;
-  overflow: hidden;
 }
 
 .imageContainer img {
@@ -28,4 +22,11 @@
 
 .gitlink {
   margin-top: 0;
+}
+
+@media screen and (min-device-width: 1200px){
+  .projectContainer {
+    margin: 0 auto;
+    max-width: 900px;
+  }
 }
