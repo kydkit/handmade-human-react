@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #eae7e5;
+  font-family: 'Spartan', sans-serif;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(77, 77, 77);
+}
+
+a:active {
+  color: rgb(77, 77, 77);
+}

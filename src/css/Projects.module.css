@@ -1,0 +1,31 @@
+.projectCard {
+  /* background: rgb(153, 153, 242); */
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.imageContainer {
+  background: white;
+  width: 100%;
+  min-width: 330px;
+  max-width: 400px;
+  height: 350px;
+  overflow: hidden;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.gitlink {
+  margin-top: 0;
+}

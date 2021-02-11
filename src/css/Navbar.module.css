@@ -1,0 +1,14 @@
+.navcontainer {
+  margin: 30px 25px;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  list-style-type: none;
+  padding-bottom: 20px;
+}
+
+img {
+  width: 30px;
+}

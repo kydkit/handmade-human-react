@@ -1,0 +1,17 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+}
+
+p {
+  margin: 20px 40px;
+  max-width: 500px;
+}
+
+span {
+  color: rgb(8, 8, 255);
+}
