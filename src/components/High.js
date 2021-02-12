@@ -17,7 +17,7 @@ const High = () => {
         opacity: 0,
         y: 0,
         ease: Power1.easeOut,
-        delay: .5,
+        delay: .8,
         repeat: -1
       }
     )
@@ -28,7 +28,7 @@ const High = () => {
         opacity: 0,
         y: 0,
         ease: Power1.easeOut,
-        delay: .7,
+        delay: 1.2,
         repeat: -1
       }
     )
@@ -49,7 +49,7 @@ const High = () => {
         opacity: 0,
         y: 0,
         ease: Power1.easeOut,
-        delay: .2,
+        delay: .4,
         repeat: -1
       }
     )

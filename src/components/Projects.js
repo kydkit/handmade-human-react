@@ -6,7 +6,7 @@ import High from '../components/High';
 
 const Project = () => {
   const { projects } = useContext(ProjectContext); 
-
+console.log( projects);
   return (
     <div className={styles.projectContainer}>
       {projects.map(project => {
