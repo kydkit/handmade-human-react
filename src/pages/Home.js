@@ -1,5 +1,5 @@
-import Jumbotron from '../components/Jumbotron'
-import Project from '../components/Projects'
+import Jumbotron from '../components/Jumbotron';
+import Project from '../components/Projects';
 
 const Home = () => {
   return (

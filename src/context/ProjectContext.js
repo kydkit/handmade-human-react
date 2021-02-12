@@ -1,8 +1,9 @@
-import { createContext, useEffect, useState } from 'react'; 
+import { createContext, useState } from 'react'; 
 
 import musicLogo from '../assets/equalizer-24px.svg'; 
 import archCubes from '../assets/cubes-solid.svg'; 
 import travelVue from '../assets/vue.png'
+import High from '../components/High'
 
 
 export const ProjectContext = createContext(); 
@@ -27,21 +28,20 @@ const ProjectContextProvider = (props) => {
     }, 
     {
       id: 3,
-      image: "placeholder",
-      url: "http://kyd.one/high-on-hayon",
-      name: "High On Hayon", 
-      language: "HTML, CSS",
-      github: "https://github.com/kydkit/high-on-hayon"
-    }, 
-    {
-      id: 4,
       image: archCubes,
       url: "http://kyd.one/architecture-viz/",
       name: "The Other Architecture", 
       language: "HTML, CSS, JavaScript",
       github: "https://github.com/kydkit/architecture-viz"
-    }
-    
+    },
+  //   {
+  //   id: 4,
+  //   image: null,
+  //   url: "http://kyd.one/high-on-hayon",
+  //   name: "High On Hayon", 
+  //   language: "HTML, CSS",
+  //   github: "https://github.com/kydkit/high-on-hayon",
+  // }
   ])
 
   return (

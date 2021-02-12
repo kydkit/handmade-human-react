@@ -1,0 +1,23 @@
+.highFade {
+  background-color: #0632CB;
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  max-width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  
+}
+
+.first, 
+.second,
+.third,
+.fourth {
+  transform: translateY(95%);
+}
+
+.highFade > span {
+  color: white;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
