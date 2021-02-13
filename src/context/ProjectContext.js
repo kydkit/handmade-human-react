@@ -3,7 +3,7 @@ import { createContext, useState } from 'react';
 import musicLogo from '../assets/equalizer-24px.svg'; 
 import archCubes from '../assets/cubes-solid.svg'; 
 import travelVue from '../assets/vue.png'
-import High from '../components/High'
+// import High from '../components/High'
 
 
 export const ProjectContext = createContext(); 

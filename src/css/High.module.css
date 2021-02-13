@@ -1,13 +1,10 @@
 .highFade {
-  /* background-color: #0632CB; */
-  background:#eae8e8a6;
+  background-color:#ffffff4a;
   display: flex;
   justify-content: space-around;
-  width: auto;
-  max-width: 350px;
-  height: 350px;
+  width: 280px;
+  height: 280px;
   margin: 0 auto;
-  
 }
 
 .first, 

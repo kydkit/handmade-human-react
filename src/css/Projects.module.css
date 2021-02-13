@@ -1,14 +1,17 @@
+.projectContainer {
+  padding-bottom: 50px;
+}
+
 .cardContainer {
   display: inline-block;
   text-align: center;
-  margin: 2rem;
+  margin: 20px;
 }
 
 .imageContainer {
-  background: white;
-  min-width: 330px;
-  max-width: 350px;
-  height: 350px;
+  width: 280px;
+  height: 280px;
+  margin: 0 auto;
 }
 
 .imageContainer img {
