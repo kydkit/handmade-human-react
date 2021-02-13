@@ -30,6 +30,5 @@
 @media screen and (min-device-width: 1200px){
   .projectContainer {
     margin: 0 auto;
-    max-width: 900px;
   }
 }

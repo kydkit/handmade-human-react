@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd88fa5b.chunk.css",
-    "main.js": "/static/js/main.a8bab488.chunk.js",
-    "main.js.map": "/static/js/main.a8bab488.chunk.js.map",
+    "main.css": "/static/css/main.1f1b88be.chunk.css",
+    "main.js": "/static/js/main.a98d988f.chunk.js",
+    "main.js.map": "/static/js/main.a98d988f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0f46624f.js",
     "runtime-main.js.map": "/static/js/runtime-main.0f46624f.js.map",
     "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
@@ -10,8 +10,10 @@
     "static/js/2.626e5820.chunk.js.map": "/static/js/2.626e5820.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.dd88fa5b.chunk.css.map": "/static/css/main.dd88fa5b.chunk.css.map",
+    "static/css/main.1f1b88be.chunk.css.map": "/static/css/main.1f1b88be.chunk.css.map",
     "static/js/2.626e5820.chunk.js.LICENSE.txt": "/static/js/2.626e5820.chunk.js.LICENSE.txt",
+    "static/media/cubes-solid.dab001bd.svg": "/static/media/cubes-solid.dab001bd.svg",
+    "static/media/equalizer-24px.eb1f254e.svg": "/static/media/equalizer-24px.eb1f254e.svg",
     "static/media/linkedin-brands.f4041044.svg": "/static/media/linkedin-brands.f4041044.svg",
     "static/media/logo.bda18f83.svg": "/static/media/logo.bda18f83.svg",
     "static/media/vue.09ea7b92.png": "/static/media/vue.09ea7b92.png"
@@ -20,7 +22,7 @@
     "static/js/runtime-main.0f46624f.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.626e5820.chunk.js",
-    "static/css/main.dd88fa5b.chunk.css",
-    "static/js/main.a8bab488.chunk.js"
+    "static/css/main.1f1b88be.chunk.css",
+    "static/js/main.a98d988f.chunk.js"
   ]
 }
